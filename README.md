@@ -1,1 +1,1 @@
-# This page is only for showing the html images :)
+## This page is only for showing the images in my blog :)
